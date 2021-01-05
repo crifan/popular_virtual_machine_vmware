@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v0.8",
+  "lastUpdate": "20210105",
+  "gitRepoName": "popular_virtual_machine_vmware",
+  "bookName": "主流虚拟机软件：VMWare",
+  "bookDescription": "总结主流的虚拟机软件VMWare的总体安装思路。介绍了Windows中下载和安装VMWare的详细过程。以及如何寻找合适版本的macOS镜像安装文件。接着介绍了Windows中用VMWare创建macOS虚拟机，以及再去在虚拟机中安装macOS操作系统，然后总结各种使用心得，比如VMWare Tools，尤其是macOS的darwin.iso的各种版本、安装darwin.iso的步骤和逻辑、安装后所支持的功能等。其他还有共享文件夹的心得。以及总结了各种常见问题及解决办法，比如安装系统后每次仍进入安装界面、VMWare新建虚拟机时无macOS选项、这个应用程序副本已损坏，不能用来安装macOS、您的Mac未连接到互联网、使用Mac虚拟机期间的Tab页呈黑色条状等。"
+}
