@@ -1,6 +1,6 @@
 {
   "title": "主流虚拟机软件：VMWare",
-  "description": "总结主流的虚拟机软件VMWare的总体安装思路。介绍了Windows中下载和安装VMWare的详细过程。以及如何寻找合适版本的macOS镜像安装文件。接着介绍了Windows中用VMWare创建macOS虚拟机，以及再去在虚拟机中安装macOS操作系统，然后总结各种使用心得，比如VMWare Tools，尤其是macOS的darwin.iso的各种版本、安装darwin.iso的步骤和逻辑、安装后所支持的功能等。其他还有共享文件夹的心得。以及总结了各种常见问题及解决办法，比如安装系统后每次仍进入安装界面、VMWare新建虚拟机时无macOS选项、这个应用程序副本已损坏，不能用来安装macOS、您的Mac未连接到互联网、使用Mac虚拟机期间的Tab页呈黑色条状等。",
+  "description": "总结主流的虚拟机软件VMWare的总体安装思路。介绍了Windows中下载和安装VMWare的详细过程。以及如何寻找合适版本的macOS镜像安装文件。接着介绍了Windows中用VMWare创建macOS虚拟机，以及再去在虚拟机中安装macOS操作系统，然后总结各种使用心得，比如VMWare Tools，尤其是macOS的darwin.iso的各种版本、安装darwin.iso的步骤和逻辑、安装后所支持的功能等。以及其他心得，比如共享文件夹、网络设置、虚拟机客户端外部访问虚拟机内部服务、创建快照、快捷键、屏保等。以及总结了各种常见问题及解决办法，比如安装系统后每次仍进入安装界面、VMWare新建虚拟机时无macOS选项、这个应用程序副本已损坏，不能用来安装macOS、您的Mac未连接到互联网、使用Mac虚拟机期间的Tab页呈黑色条状、剪贴板和文件拖放失效、无法识别插入的USB设备iPhone等。",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
